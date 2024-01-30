@@ -1,0 +1,52 @@
+.row {
+    background-color: #2F4874;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 170px;
+    margin-bottom: 0px;
+}
+
+#cui-language-selector{
+    background-color: #2F4874;
+    color: white;
+    border-radius: 5px;
+}
+
+.butn{
+    margin-left: 430px;
+    background-color: silver;
+    height: 250px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.put{
+    margin-top: 80px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h6{
+    margin-left: 10px;
+}
+
+input{
+    display: flex;
+}
+
+#sig{
+    margin-left: 270px;
+    background-color: #2F4874;
+    border-radius: 5px;
+}
+#two{
+    text-shadow: 0cap;
+    border-radius: 3px;
+}
+#one{
+    border-radius: 3px;
+}
